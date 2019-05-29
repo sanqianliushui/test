@@ -1,1 +1,8 @@
 abc
+safdasgf
+Administrator@lx-PC MINGW64 /d/test
+$ git init
+Initialized empty Git repository in D:/test/.git/
+
+Administrator@lx-PC MINGW64 /d/test (master)
+$
